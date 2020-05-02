@@ -1,7 +1,7 @@
 package org.hyc;
 
 /**
- * Hello world!
+ * Hello design patterns world!
  *
  * @author hyc
  */

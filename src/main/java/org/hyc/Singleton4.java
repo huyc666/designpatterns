@@ -1,7 +1,7 @@
 package org.hyc;
 
 /**
- * @author Lenovo
+ * @author hyc
  * Singleton4 枚举方式
  * 优点：天然线程安全，可防止反射生成实例
  */

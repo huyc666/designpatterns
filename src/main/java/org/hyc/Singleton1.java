@@ -1,7 +1,7 @@
 package org.hyc;
 
 /**
- * @author Lenovo
+ * @author hyc
  * Singleton1 饿汉式
  * 优点：线程安全，获取实例速度快
  * 缺点：类加载即初始化实例，内存浪费

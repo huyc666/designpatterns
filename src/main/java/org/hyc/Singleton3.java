@@ -1,7 +1,7 @@
 package org.hyc;
 
 /**
- * @author Lenovo
+ * @author hyc
  * Singleton3 内部类
  * 优点：既避免了同步带来的性能损耗，又能够延迟加载
  */

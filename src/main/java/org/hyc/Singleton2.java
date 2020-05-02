@@ -1,7 +1,7 @@
 package org.hyc;
 
 /**
- * @author Lenovo
+ * @author hyc
  * Singleton2 懒汉式 双重加索检查
  * 优点：在获取实例的方法中，进行实例的初始化，线程安全，保证只有唯一实例
  * 缺点：实例非空判断，耗费资源
