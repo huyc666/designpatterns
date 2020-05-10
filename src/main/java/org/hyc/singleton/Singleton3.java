@@ -1,4 +1,4 @@
-package org.hyc;
+package org.hyc.singleton;
 
 /**
  * @author hyc
